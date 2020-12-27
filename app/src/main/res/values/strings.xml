@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LOGPAS</string>
+    <string name="different_password">The passwords are different!</string>
+    <string name="new_registration_success">New registration success!</string>
+    <string name="ok">OK</string>
+    <string name="login_in">sign in</string>
+    <string name="register">sign up</string>
+
+</resources>
